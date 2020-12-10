@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SendSMS</string>
+    <string name="get_contacts">Get Contacts</string>
+    <string name="calls">Calls</string>
+    <string name="contacts">Contacts</string>
+    <string name="favorites">Favorites</string>
+</resources>
